@@ -35,7 +35,7 @@
 <a href="url"><img src="https://github.com/Dezire039/Streamlit_GigaChat/assets/114075427/ea7baa9c-98a6-4de8-8636-45ce2ae0c2dc" height=70% width=70% ></a>
 
 3) Возвращаемся на главную страницу "Main" и задаем вопрос модели и получаем ответ
-<a href="url"><img src="https://github.com/Dezire039/Streamlit_Mistral/assets/114075427/7e79cd1e-aae1-4135-93b8-e10173b935be" height=70% width=70% ></a>
+<a href="url"><img src=".." height=70% width=70% ></a>
 
 \
 \
